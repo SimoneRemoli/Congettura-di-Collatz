@@ -4,7 +4,6 @@
 </h1>
 
 ### :scream: Statement.
-
 Consider the following operation on an arbitrary positive integer:
 
     If the number is even, divide it by two.
