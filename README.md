@@ -23,7 +23,7 @@ Jeffrey Lagarias stated in 2010 that the Collatz conjecture "is an extraordinari
 
 The picture shows the numbers **from 1 to 9999** and their corresponding total stopping time.
 Directed graph showing the orbits of small numbers under the Collatz map, skipping even numbers. The Collatz conjecture states that all paths eventually lead to 1.
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Collatz-graph-50-no27.svg/320px-Collatz-graph-50-no27.svg.png" width="500px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Collatz-graph-50-no27.svg/320px-Collatz-graph-50-no27.svg.png" width="200px"/>
 
 For instance, starting with n = 12 and applying the function f without "shortcut", one gets the sequence 12, 6, 3, 10, 5, 16, 8, 4, 2, 1.
 
