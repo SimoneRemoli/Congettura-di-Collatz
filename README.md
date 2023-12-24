@@ -19,3 +19,5 @@ Paul Erdős said about the Collatz conjecture: **"Mathematics may not be ready f
 
 Jeffrey Lagarias stated in 2010 that the Collatz conjecture "is an extraordinarily difficult problem, completely out of reach of present day mathematics".
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Collatz-stopping-time.svg/800px-Collatz-stopping-time.svg.png" width="500px"/>
+
