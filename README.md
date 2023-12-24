@@ -11,5 +11,5 @@ Consider the following operation on an arbitrary positive integer:
 
 In modular arithmetic notation, define the function f as follows: 
 
-<img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9b2a03faf9d31a8de0abb3c4a3d318490105da12" width="100px"/>
+<img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9b2a03faf9d31a8de0abb3c4a3d318490105da12" width="790px"/>
 
